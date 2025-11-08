@@ -1,1 +1,1 @@
-Personal portfolio website built with Node.js, Express, and EJS. Includes Home, About, Projects, and Contact pages, styled with CSS. The website also links to my GitHub and LinkedIn profiles.
+Personal portfolio website built with Node.js, Express, and EJS. Includes Home, About, Projects, and Contact pages, styled with CSS. The website also links to my GitHub and LinkedIn profiles. Deployed on Render.

@@ -1,5 +1,5 @@
 // Routes to different pages
-// Got assistance from GitHub Copilot, since i faced difficulty in creating routes for different pages
+// Got assistance from GitHub Copilot, since I faced difficulty in creating routes for different pages
 
 const express = require('express');
 const router = express.Router();
